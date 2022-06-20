@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Akinwole from Nigeria. You can say I am a beginner.
+- 👋 Hi, I am Akinwole from Nigeria.
 - 👀 I’m interested in backend web development and Data science.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects using python.
-- 📫 You can reach me via coderpikin@gmail.com or on Twitter https://twitter.com/Akinwole_Fenwa?s=09
+- 💞️ Want to build something fun? reach out to me.
+- 📫 You can reach me via akinwoleadeyeye@gmail.com or on Twitter https://twitter.com/Akinwole_Fenwa?s=09
 I hope to learn from you! 
 
 <!---
