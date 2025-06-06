@@ -9,8 +9,8 @@ I am in the learning phase, I use python, SQL, Power BI, and Excel for data anal
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [GitHub](http://https://github.com/Akinwole-Fenwa)
 * ✉️  You can contact me at [akinwoleadeyeye@gmail.com](mailto:akinwoleadeyeye@gmail.com)
-* 🧠  I'm learning MySQL for querying data & database management and Python for data analysis
-* 🤝  I'm open to collaborating on Data analytics projects and STEM Writings
+* 🧠  MySQL for querying data & database management and Python for data analysis
+* 🤝  I'm open to collaborating on Data analytics projects and Technical Writing
 * ⚡  I'm open for writing gigs. Hit me up!
 
 <a href="https://www.twitter.com/Akinwole_Fenwa" target="_blank" rel="noreferrer"><img
